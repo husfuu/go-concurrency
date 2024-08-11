@@ -12,4 +12,4 @@
     ```
 
 
-- **ChatGpt Chat**: https://chatgpt.com/share/c0eb8dba-db9a-4224-8e68-73ac197de2f6
+<!-- - **ChatGpt Chat**: https://chatgpt.com/share/c0eb8dba-db9a-4224-8e68-73ac197de2f6 -->
